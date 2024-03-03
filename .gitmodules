@@ -1,0 +1,4 @@
+[submodule "https://github.com/aofg/dapp-frontend.git"]
+	url = packages/client
+[submodule "https://github.com/aofg/dapp-contracts.git"]
+	url = packages/contracts
